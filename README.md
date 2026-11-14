@@ -204,4 +204,4 @@ This repository serves as the official landing page for Advanced LAN Scanner. Th
 **Get the most recent version of Advanced LAN Scanner today!**
 
 ---
-**Last updated:** 2026-11-14 14:42:59 UTC
+**Last updated:** 2026-11-14 19:39:23 UTC
